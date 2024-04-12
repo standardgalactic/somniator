@@ -1,4 +1,4 @@
-# Something More
+# Somniator
 
 more on my [BLOG](https://www.cmwonderland.com/)
 - misc programs in [jupyter notebooks](jupyter_notebooks)
